@@ -4,6 +4,6 @@ check = datetime.date.today().day
 if(check > 1):
     print("Its due past date that is First")
 elif(check == 1):
-    print("Exact Match")
+    print("Exact Match") 
 else:
-    print("not satified condition")
+    print("not satified condition") 
